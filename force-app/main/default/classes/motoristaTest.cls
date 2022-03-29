@@ -1,13 +1,9 @@
 @isTest
-public class motoristaTest {
+public class MotoristaTest {
 
     @isTest
-    static void carroDoMotorista() {
-
-        motoristaTest.carr
-
-
-
-
+    static void testcarrodoMotorista(){
+        Motorista.carrodoMotorista();
     }
+    
 }
